@@ -1,0 +1,35 @@
+
+body{
+    background:url("multi.jpg.jpg");
+    font-family: 'Times New Roman', Times, serif;
+}
+.regform{
+    width=500px;
+    margin:250px auto;
+    padding: 30px 30px 30px;
+    background-color:darkorange;
+    color:white;
+    font-size: 100;
+    border-radius: 10px;
+}
+.regform h3{
+     text-align:center;
+    color:black;
+}
+.text label{
+    display:block;
+    width: 100%;
+
+}
+.box input{
+    width=100%;
+    font-size: 1.5em;
+    border-radius: 8px;
+    padding:5px 10px;
+    border-sizing:border-radius
+}
+
+
+
+/*-----------------------textlabel --------*/
+
