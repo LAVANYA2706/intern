@@ -28,7 +28,7 @@
 top: 2;
 right: 0;
 text-align: right;
-padding: 2px;
+padding: 2px,2px;
 }
 
 .Navigation a{
@@ -37,12 +37,12 @@ padding: 2px;
 }
 a:hover
 {
-    background-color: #16223c;
+    background-color: #758cbe;
     border-radius: 10px;
 }
 .text
 {
-    color: rgb(255, 255, 255);
+    color: rgb(237, 233, 233);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;                                                                                                                                          
     font-size: 25px;
 }
