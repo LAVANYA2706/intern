@@ -1,0 +1,89 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Hair dryer",
+      "price": 1500,
+      "type": "Electronics",
+      "image": "hair dryer.jpg"
+    },
+    {
+      "id":2,
+      "name": "Silapathikaram",
+      "price": 350,
+      "type":"Book",
+      "image": "sila.jpg"
+      
+    },
+    {
+      "id": 3,
+      "name": "Earing",
+      "price": 150,
+      "type": "Cosmetics",
+      "image": "earing.jpg"
+    },
+{
+      "id": 4,
+      "name": "Vanilla essence",
+      "price":100,
+      "type": "Groceries",
+      "image": "essence.jpg"
+    },
+{
+      "id": 5,
+      "name": "Almond Nuts",
+      "price": 450,
+      "type": "Groceries",
+      "image": "badam.jpg"
+    },
+{
+      "id": 6,
+      "name": "Makeup brushes",
+      "price": 500,
+      "type": "Cosmetics",
+      "image": "up.jpg"
+    },
+{
+      "id": 7,
+      "name": "Tomato",
+      "price": 25,
+      "type": "Groceries",
+      "image": "t.jpg"
+    },
+{
+      "id": 8,
+      "name": "Brush holder",
+      "price": "80",
+      "type": "Houshold",
+      "image": "h.jpg"
+    },
+{
+      "id": 9,
+      "name": "cookware sets",
+      "price": 2500,
+      "type": "Household",
+      "image": "c.jpg"
+    },
+{
+      "id": 10,
+      "name": "Bracelet",
+      "price": 700,
+      "type":"Cosmetics",
+      "image": "B.jpg"
+    },
+{
+      "id": 11,
+      "name": "Dish washer",
+      "price": 80000,
+      "type":"Electronics",
+      "image": "v.jpg"
+    },
+{
+     "id": 12,
+      "name": "Aurilea",
+      "price": 1500,
+      "type":"outfit",
+      "image": "a.jpg"
+}
+  ]
+}

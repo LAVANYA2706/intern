@@ -1,0 +1,14 @@
+<mat-card class="example-card">
+    <mat-card-header>
+      <mat-card-title>{{product.name}}</mat-card-title>
+      <mat-card-subtitle>{{product.type}}</mat-card-subtitle>
+    </mat-card-header>
+    <img mat-card-image src="http://localhost/{{product.image}}" class="image">
+    <p class="price">{{product.price | currency:'INR'}}</p>
+    <mat-card-actions>
+        <button mat-raised-button color="accent">Buy</button>
+        <button mat-raised-button color="accent" class="btn">Add To Cart</button>
+        </mat-card-actions>
+      </mat-card>
+  
+      

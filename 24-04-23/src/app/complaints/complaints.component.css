@@ -1,0 +1,34 @@
+
+.example-form mat-form-field {
+  width: 60%;
+  margin: auto;
+  background-color: white;
+  margin-left: 25%;
+}
+.example-full-width {
+  width: 100%;
+}
+
+.example-option-img {
+  vertical-align: middle;
+  margin-right: 8px;
+}
+
+[dir="rtl"] .example-option-img {
+  margin-right: 0;
+  margin-left: 8px;
+}
+
+.frm {
+  padding: 75px;
+  background-color: rgb(164, 156, 156);
+  
+}
+#clss {
+  align-items: center;
+  justify-content: center;
+}
+.btn{
+  margin-left: 45%;
+  margin-top: 2%;
+}
