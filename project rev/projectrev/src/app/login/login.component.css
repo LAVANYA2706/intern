@@ -1,0 +1,65 @@
+.container1 {
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(135deg, #ff459c 0%, #380226 100%);
+    position: relative;
+}
+
+
+ .topic {
+     font-size: 80px;
+     font-weight: bold;
+     font-family: 'Times New Roman', Times, serif;
+     letter-spacing: 10px;
+     position: absolute;
+     top: 50px;
+     right: 50px;
+ }
+
+ .des {
+     font-size: 20px;
+     font-style: italic;
+     letter-spacing: 2px;
+     position: absolute;
+     top: 100px;
+     right: 100px;
+     width: 400px;
+ }
+
+ .fim {
+     position: absolute;
+     top: 50px;
+     left: 50px;
+     width: 400px;
+ }
+
+ .login-form {
+     width: 400px;
+     height: 300px;
+     padding: 20px;
+     background-color: hsla(0, 14%, 96%, 0.717);
+     border-radius: 10px;
+     position: absolute;
+     bottom: 20px;
+     right: 50px;
+     box-shadow: 5px 5px 20px #090909;
+ }
+
+ .form-group {
+     margin-top: 20px;
+ }
+
+ label {
+     font-weight: bold;
+ }
+
+ .btn-container {
+     margin-top: 30px;
+ }
+
+ .error {
+     position: absolute;
+     top: 32px;
+     right: 0px;
+     color: #f61717
+ }

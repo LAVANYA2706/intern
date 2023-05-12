@@ -1,0 +1,123 @@
+{
+  
+  "theatre": [
+    {
+      "id": 1,
+      "name": "Venom",
+      "cover": "ve.jpg",
+      "rating": 4.15,
+      "reviews": []
+    },
+    {
+      "id": 2,
+      "name": "Return jedi",
+      "cover": "return.jpg",
+      "rating": 4.15,
+      "reviews": [
+        {
+          "author": "Sirius Black",
+          "published_on": "2021-10-13 11:37:29",
+          "review": "Lengthy movie",
+          "rating": 3.5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ponniyan selvan",
+      "cover": "ps.jpg",
+      "rating": 4.5,
+      "reviews":[]
+    },
+    {
+      "id": 4,
+      "name": "Ren Field",
+      "cover": "ren.jpg",
+      "rating": 3.15,
+      "reviews": [{
+        "author": "Albus Dumbledore",
+        "published_on": "2023-1-13 11:27:39",
+        "review": "Awesome movie!",
+        "rating": 4.5
+      }]
+    }
+    
+  
+  ],
+  "trend": [
+    {
+      "id": 5,
+      "name": "Titanic",
+      "cover": "tit.jpg",
+      "rating": 4.5,
+      "reviews": []
+    },
+    {
+      "id": 6,
+      "name": "kid",
+      "cover": "kid.jpg",
+      "rating": 3.15,
+      "reviews": [
+        {
+          "author": "Albus Dumbledore",
+          "published_on": "2021-10-13 11:27:39",
+          "review": "Awesome movie!",
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "The other Fellow",
+      "cover": "fellow.jpg",
+      "rating": 3.15,
+      "reviews": []
+    },
+    {
+      "id": 8,
+      "name": "The Public Enemy",
+      "cover": "public.jpg",
+      "rating": 4.00,
+      "reviews": []
+    }
+  ],
+  "popmovie": [
+    {
+      "id": 9,
+      "name": "Solar Opposites",
+      "cover": "solar.jpg",
+      "rating": 4.45,
+      "reviews": []
+    },
+    {
+      "id": 10,
+      "name": "Robin Hood",
+      "cover": "robin.jpg",
+      "rating": 4.5
+    },
+    {
+      "id": 11,
+      "name": "Gladiator",
+      "rating": 4.35,
+      "reviews": []
+    },
+    {
+      "id": 12,
+      "name": "The Dark Knight Rises",
+      "rating": 4.45,
+      "reviews": []
+    },
+    {
+      "id": 13,
+      "name": "Terminator",
+      "rating": 4.22,
+      "reviews": []
+    },
+    {
+      "id": 14,
+      "name": "The Lord of the Rings",
+      "rating": 4.15,
+      "reviews": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+
+    <div class="container1">
+        <img class="fim" src="http://localhost/org1.png" alt="">
+    </div>
+    <div class="topic">Cinetalk</div>
+
+
+    <!-- <img  class="fim"src="http://localhost/reels.jpg">  -->
+    <div class="des">
+        cine talk is the world's most trusted recommendation resources for quality entertainment.If you're an
+        entertainment fan looking for a recommendation, or to share an opinion, you've come to the right place.
+    </div>
+    <div class="login-form">
+        <div class="form-group">
+            <label for="name">Username</label>
+            <input type="text" class="form-control" [(ngModel)]="username" />
+        </div>
+        <div class="form-group">
+            <label for="pwrd">Password</label>
+            <input type="text" class="form-control" [(ngModel)]="password" />
+        </div>
+        <div class="btn-container">
+            <div class="error">{{errorMsg}}</div>
+            <button class="btn btn-dark" (click)="login()">Login</button>
+        </div>
+
+
+    </div>
